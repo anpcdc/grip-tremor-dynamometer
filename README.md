@@ -22,7 +22,7 @@ Protocol: 3 maximum voluntary contractions (MVC, 5 s each), then 3 sub-maximal h
 | `software/gui/` | `grip_analyzer_gui.py` — test GUI (PySide6 + pyqtgraph) |
 | `software/analysis/` | `grip_tremor_analysis.py` — group analysis that produces the figures |
 | `hardware/` | `dynamometer_final.f3d` — Fusion 360 design of the final dynamometer |
-| `docs/` | Report, poster, GUI screenshots |
+| `report/` | Report, poster, GUI screenshots |
 | `data/` | Column template only (see [Data](#data)) |
 | `results/figures/` | Example figures |
 
@@ -84,5 +84,5 @@ Figures from the project's own dataset (33–34 trials, ~18 participants; see th
 ![Tremor fingerprint](results/figures/fig_tremor.png)
 ![Spearman correlation matrix](results/figures/fig_correlacoes.png)
 
-GUI screenshot: [`docs/screenshots/gui_results_2026-04-06.png`](docs/screenshots/gui_results_2026-04-06.png).
-Full methods and results: [`docs/IAB_report_3d_printed_dynamometer.pdf`](docs/IAB_report_3d_printed_dynamometer.pdf).
+GUI screenshot: [`report/screenshots/gui_results_2026-04-06.png`](report/screenshots/gui_results_2026-04-06.png).
+Full methods and results: [`report/IAB_report_3d_printed_dynamometer.pdf`](report/IAB_report_3d_printed_dynamometer.pdf).
