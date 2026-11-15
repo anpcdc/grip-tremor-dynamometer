@@ -4,8 +4,7 @@ A low-cost, portable device that measures **grip strength**, **force steadiness*
 A load cell (HX711) and an IMU (BMI270) are read by an Arduino, and a Python/Qt GUI guides the test and
 analyses the signals in real time.
 
-Course project for *Instrumentação e Aquisição de Biossinais* (IAB), MEBiom, Instituto Superior Técnico —
-Group 10 (Afonso Carvalho, David Lopes). This is a student prototype, **not a validated or clinical device**.
+Course project for *Instrumentation and Acquisition of Biosignals* (IAB), MEBiom, Instituto Superior Técnico. This is a student prototype, **not a validated or clinical device**.
 
 ## What it measures
 
