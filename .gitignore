@@ -1,0 +1,18 @@
+# Participant data is never committed (only the empty template)
+data/*.csv
+!data/results_template.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Local-only material
+literature/
+media/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
